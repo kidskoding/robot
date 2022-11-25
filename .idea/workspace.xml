@@ -5,7 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae2c071b-f3d7-4ca0-b142-34d22019d662" name="Changes" comment="fixed indentations">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_2022_1_47_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_25_2022_1_47_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/.wpilib/wpilib_preferences.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/WPILib-License.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/src/main/deploy/example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/src/main/java/frc/robot/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/src/main/java/frc/robot/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/src/main/java/frc/robot/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/src/main/java/frc/robot/RobotContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/src/main/java/frc/robot/commands/ExampleCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/src/main/java/frc/robot/commands/TeleopDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/src/main/java/frc/robot/subsystems/DriveTrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/src/main/java/frc/robot/subsystems/ExampleSubsystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/vendordeps/Phoenix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRC2223/FRC2223Demo/FRC2223Demo/vendordeps/WPILibNewCommands.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +94,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RunManager">
@@ -99,7 +123,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="04d2a84c-6b5a-4fe7-918b-f7989a5c3ba2" name="Changes" comment="" />
+      <changelist id="ae2c071b-f3d7-4ca0-b142-34d22019d662" name="Changes" comment="fixed indentations" />
       <created>1669389873868</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -108,6 +132,11 @@
       <workItem from="1669401686773" duration="774000" />
       <workItem from="1669404730717" duration="18000" />
       <workItem from="1669404771574" duration="331000" />
+      <workItem from="1669408840094" duration="394000" />
+      <workItem from="1669409389302" duration="2273000" />
+      <workItem from="1669416724370" duration="46000" />
+      <workItem from="1669416815291" duration="37000" />
+      <workItem from="1669417209375" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="fixed indentations">
       <created>1669399225342</created>
@@ -133,6 +162,17 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -145,7 +185,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="fixed indentations" />
   </component>
   <component name="WpiLibVersionService">
-    <option name="lastChecked" value="20221125133254" />
+    <option name="lastChecked" value="20221125170015" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
